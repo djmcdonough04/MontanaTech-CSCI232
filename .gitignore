@@ -1,5 +1,5 @@
-/SEMI-Important/*.py
 /NOT-Important/
+/SEMI-Important/*.py
 /Important/*.vs
 /Important/Important.vcxproj.filters
 /Important/Important.vcxproj.user
