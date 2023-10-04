@@ -4,7 +4,7 @@ In this lab, you will become familiar with GitHub as well as the importance of i
 ## Submission Information
 **Name:** Dylan McDonough  
 **Course:** CSCI232, 1, Data Structures and Algorithms  
-**Due:** TBD  
+**Due:** 10/11/2023  
 **GitHub:** [View the rest of my GitHub here!](https://github.com/djmcdonough04)  
 **Favorites:** Top 3 Favorite Video Games - 1) Baldur's Gate 3, 2) Night in the Woods, 3) Minecraft  
 
